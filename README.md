@@ -41,7 +41,7 @@ The project includes:
 
 [View project](https://github.com/vhancajimal/ecg-signal-processing)
 
-## Current Academic Experience
+## Academic Experience
 
 - B.Sc. Biomedical Engineering — Technische Universität Ilmenau
 - Erasmus+ Exchange — Politecnico di Milano
