@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Victor 👋
 
-<!--
-**vhancajimal/vhancajimal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Biomedical Engineering student at Technische Universität Ilmenau with
+international academic experience in Peru, Germany, Italy and China.
 
-Here are some ideas to get you started:
+I am particularly interested in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Biomedical signal processing
+- Biomedical instrumentation and sensors
+- Medical imaging
+- Electronics for biomedical applications
+
+## Technical Skills
+
+**Programming & Scientific Computing**  
+Python, NumPy, SciPy, Matplotlib, MATLAB
+
+**Biomedical Signal Processing**  
+ECG processing, digital filtering, R-peak detection, RR-interval analysis
+
+**Engineering Tools**  
+LTspice, Autodesk Inventor
+
+**Development**  
+Git, GitHub, Jupyter Notebook
+
+## Featured Project
+
+### ECG Signal Processing Pipeline
+
+A Python-based biomedical signal-processing project using ECG data from
+the MIT-BIH Arrhythmia Database.
+
+The project includes:
+
+- Butterworth band-pass filtering
+- R-peak detection
+- RR-interval analysis
+- Heart-rate estimation
+- Validation against reference beat annotations
+
+[View project](https://github.com/vhancajimal/ecg-signal-processing)
+
+## Current Academic Experience
+
+- B.Sc. Biomedical Engineering — Technische Universität Ilmenau
+- Erasmus+ Exchange — Politecnico di Milano
+- Double Degree Program — Tongji Zhejiang College / Tongji University
+
+## Contact
+
+Email: vhancajimal@gmail.com
